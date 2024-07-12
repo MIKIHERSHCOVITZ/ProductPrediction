@@ -6,6 +6,26 @@ The project includes models such as CNN (Convolutional Neural Network), XGBoost,
 
 ## Installation and Setup
 
+### Install Git LFS
+
+**On Windows:**
+- Download and run the installer from the [Git LFS website](https://git-lfs.github.com/).
+
+**On macOS:**
+```bash
+brew install git-lfs
+```
+
+**On Linux:**
+```bash
+sudo apt-get install git-lfs
+```
+
+### Initialize Git LFS
+```bash
+git lfs install
+```
+
 Clone the Repository
 ```bash
 git clone https://github.com/MIKIHERSHCOVITZ/ProductPrediction.git
